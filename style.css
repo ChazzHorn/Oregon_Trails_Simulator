@@ -1,0 +1,22 @@
+*{
+    margin: 0 auto;
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Special Elite', cursive;
+
+    background-color: rgb(21, 20, 20);
+    color: cornsilk;
+    
+   text-align: center;
+
+    
+    
+}
+h1{
+    font-size: 35pt;
+}
+#canvas{
+   
+    height: 500px;
+    width: 500px;
+    border: 4px outset rgb(255, 248, 220);
+}
